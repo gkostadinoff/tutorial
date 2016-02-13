@@ -1,3 +1,5 @@
 This is a test in master.
 Commit from windows.
+<<<<<<< HEAD
 Commit from fourth branch.
+Commit from third branch....
